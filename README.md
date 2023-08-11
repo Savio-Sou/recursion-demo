@@ -7,8 +7,8 @@ A collection of simple examples demonstrating how to do recursion in Noir.
 ### Setup
 
 1. Install Node.js ≥v18 (tested on v18.17.0)
-2. Install Nargo via nix with the [instructions here](https://noir-lang.org/getting_started/nargo_installation#option-3-install-via-nix)
-3. Install bb.js by running `npm i -g @aztec/bb.js`
+2. Install Nargo via nix with the [instructions here](https://noir-lang.org/getting_started/nargo_installation#option-3-install-via-nix) (tested on commit [ea80de5](https://github.com/noir-lang/noir/commit/ea80de57a57a92533b3fb545a0920bca2d74e109))
+3. Install bb.js by running `npm i -g @aztec/bb.js` (tested on v0.3.3)
 
 ### Prove and verify the example code
 
