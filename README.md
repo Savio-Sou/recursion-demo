@@ -1,5 +1,7 @@
 # recursion-demo
 
+UPDATE: This repo is outdated. Refer to https://github.com/noir-lang/noir-examples for the most recent examples.
+
 A collection of simple examples demonstrating how to do recursion in Noir.
 
 ## CLI
